@@ -1,1 +1,1 @@
-# Homology_modeling_using_Modeller_in_Windows
+# Homology modeling of protein using Modeller
